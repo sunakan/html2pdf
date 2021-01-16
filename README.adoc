@@ -1,0 +1,10 @@
+= HTML2PDF
+
+----
+$ make docker-build
+$ mkdir ./html-samples
+$ git clone https://github.com/okoppe8/PaperFormToHTML ./html-samples/sample-0
+$ make html2pdf-1
+
+output.pdf GET
+----
